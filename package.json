@@ -28,11 +28,6 @@
     "url": "https://github.com/kangax/fabric.js/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "canvas": "1.1.x",
-    "jsdom": "1.1.x",
-    "xmldom": "0.1.x"
-  },
   "devDependencies": {
     "execSync": "1.0.x",
     "uglify-js": "2.4.x",
@@ -40,9 +35,6 @@
     "jshint": "2.6.x",
     "qunit": "0.7.2",
     "istanbul": "0.3.x"
-  },
-  "engines": {
-    "node": ">=0.4.0 && <1.0.0"
   },
   "main": "./dist/fabric.js"
 }

@@ -28,10 +28,6 @@
     "url": "https://github.com/kangax/fabric.js/issues"
   },
   "license": "MIT",
-  "scripts": {
-    "build": "node build.js modules=ALL exclude=json,cufon,gestures",
-    "test": "node test.js && jshint src"
-  },
   "dependencies": {
     "canvas": "1.1.x",
     "jsdom": "1.1.x",
